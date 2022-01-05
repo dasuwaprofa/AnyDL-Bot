@@ -1,6 +1,6 @@
 # AnyDL Bot ❤
 
-This bot can download video or audio from youtube and more video sites quickly (custom thumbnail support) Can be found in telegram as [@JEAnyDLBot](https://t.me/JEAnyDLBot)
+This bot can download video or audio from youtube and more video sites quickly (custom thumbnail support) Can be found in telegram as [@dasuwaprofa_bot](https://t.me/dasuwaprofa_bot)
 
 ### Deploy to Heroku 🏃‍♂
 
@@ -10,10 +10,10 @@ This bot can download video or audio from youtube and more video sites quickly (
 
 - [Dashezup](https://github.com/dashezup) - Author of base plugin
 
-- [Infinity BOTs](https://t.me/Infinity_BOTs)
+- [more BOTs](https://t.me/nethmi_roshel)
 
 - [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
 ### Developers:
 
-- [@ImJanindu](https://t.me/ImJanindu)
+- [@dasuking](https://t.me/dasuking)
